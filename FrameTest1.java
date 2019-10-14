@@ -7,7 +7,7 @@ public class FrameTest1
     {
         Frame f= new Frame();
         f.setTitle("첫 번째 프레임 입니다.");
-        f.setBounds(100, 100, 300, 300);
+        f.setBounds(500, 500, 300, 300);
         f.setVisible(true);
     }
 }
